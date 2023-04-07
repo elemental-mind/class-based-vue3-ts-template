@@ -4,7 +4,7 @@ I was missing the class based syntax I was used to from Vue 2 where I heavily us
 
 This template sets you up so that you can write your components in such a fashion with Vue 3:
 
-```
+```vue
 <template>
     <div class="container">
         <h1>{{ msg }}</h1>
